@@ -32,4 +32,4 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções robustas e escal
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer" width="100%"/>
-</div>div>
+</div>
