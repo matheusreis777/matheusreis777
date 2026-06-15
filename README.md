@@ -10,17 +10,12 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis. Trabalho principalmente com **TypeScript**, **Node.js** e **React**, sempre buscando escrever código limpo e de alta qualidade.
+Matheus Reis 
+Engenheiro Full Stack com sólida experiência em .NET, C# e desenvolvimento de APIs REST escaláveis, integrações entre sistemas e aplicações corporativas de alta complexidade.
 
-🔭 Atualmente trabalhando em projetos pessoais e profissionais
-
-🌱 Sempre aprendendo novas tecnologias e boas práticas
-
-💬 Me pergunte sobre **TypeScript, Node.js, React, C#**
+Atuo na construção de soluções completas — da modelagem e otimização de banco de dados ao desenvolvimento de interfaces modernas com , e aplicações mobile com .
 
 📫 Entre em contato: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusreis777)
-
-⚡ Fun fact: Adoro transformar café em código!
 
 ---
 
