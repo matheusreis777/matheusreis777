@@ -3,29 +3,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1114&height=8&section=header" width="100%" />
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+# Matheus Reis
 
-# Matheus <span>Reis</span>
-
-### Full Stack Developer
+### `Full Stack Developer`
 
 Desenvolvedor de software focado em construir aplicações, APIs, integrações e soluções que resolvem problemas reais.
 
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-39E6A0?style=flat-square&logo=googlechrome&logoColor=07110C)](https://www.matheusreis.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161F25?style=flat-square&logo=linkedin&logoColor=39E6A0)](https://linkedin.com/in/matheusreis777)
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&text=PLAYER%201&fontSize=12&fontColor=39E6A0" width="100%" />
-
-<img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/avatar.png" width="250" alt="Avatar 3D do Matheus" />
-
-</td>
-</tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-39E6A0?style=flat-square&logo=googlechrome&logoColor=07110C)](https://www.matheusreis.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-161F25?style=flat-square&logo=linkedin&logoColor=39E6A0)](https://linkedin.com/in/matheusreis777)
 
 </div>
 
@@ -35,13 +20,18 @@ Desenvolvedor de software focado em construir aplicações, APIs, integrações 
 
 Sou desenvolvedor Full Stack e gosto de entender como as coisas funcionam, encontrar soluções melhores e transformar ideias em software.
 
-Trabalho com desenvolvimento backend, frontend, aplicações mobile, bancos de dados, integrações entre sistemas e infraestrutura. Tenho especial interesse em arquitetura de software, APIs e na construção de produtos que sejam simples de usar e sustentáveis de manter.
+Trabalho com desenvolvimento backend, frontend, aplicações mobile, bancos de dados, integrações entre sistemas e infraestrutura. Tenho especial interesse em arquitetura de software, APIs e na construção de produtos simples de usar e sustentáveis de manter.
 
 ```typescript
 const matheus = {
   role: "Full Stack Developer",
-  focus: ["Backend", "APIs", "Architecture", "Integrations"],
-  mindset: "Aprender, construir e melhorar continuamente",
+  focus: [
+    "Backend",
+    "APIs",
+    "Architecture",
+    "Integrations",
+  ],
+  mindset: "Build, learn, improve, repeat",
 };
 ```
 
@@ -124,7 +114,7 @@ Comunicação entre sistemas, webhooks, APIs externas e automação de processos
 
 ### Engenharia de software
 
-Organização de código, manutenção de sistemas existentes e evolução contínua de produtos.
+Organização de código, manutenção de sistemas e evolução contínua de produtos.
 
 `Clean Architecture` · `SOLID` · `Design Patterns`
 
@@ -142,8 +132,6 @@ Organização de código, manutenção de sistemas existentes e evolução cont�
 
 Plataforma que reúne soluções de software para diferentes segmentos, com foco em gestão e produtividade.
 
-**Tecnologias**
-
 `Next.js` `TypeScript` `Tailwind` `Supabase`
 
 [ Acessar projeto →](https://undercontrol.online)
@@ -155,11 +143,9 @@ Plataforma que reúne soluções de software para diferentes segmentos, com foco
 
 Jogo de geografia que transforma conhecimento em uma experiência interativa e competitiva.
 
-**Tecnologias**
-
 `React` `Next.js` `TypeScript`
 
-[ Jogar →](https://geoquestgame.online)
+[ Acessar jogo →](https://geoquestgame.online)
 
 </td>
 </tr>
@@ -169,8 +155,6 @@ Jogo de geografia que transforma conhecimento em uma experiência interativa e c
 ### ConnectCar
 
 Sistema de gestão e CRM para o setor automotivo, com funcionalidades comerciais, estoque de veículos e integrações com portais e serviços externos.
-
-**Tecnologias**
 
 `.NET` `C#` `Angular` `SQL Server` `React Native`
 
@@ -193,8 +177,8 @@ Sistema de gestão e CRM para o setor automotivo, com funcionalidades comerciais
 
 Vamos conversar sobre tecnologia, desenvolvimento e novas ideias.
 
-[![Portfolio](https://img.shields.io/badge/matheusreis.dev-39E6A0?style=flat-square&logo=googlechrome&logoColor=07110C)](https://www.matheusreis.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161F25?style=flat-square&logo=linkedin&logoColor=39E6A0)](https://linkedin.com/in/matheusreis777)
+[![PORTFOLIO](https://img.shields.io/badge/matheusreis.dev-39E6A0?style=flat-square&logo=googlechrome&logoColor=07110C)](https://www.matheusreis.dev)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-161F25?style=flat-square&logo=linkedin&logoColor=39E6A0)](https://linkedin.com/in/matheusreis777)
 
 <sub>BUILD · LEARN · IMPROVE · REPEAT</sub>
 
