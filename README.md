@@ -1,201 +1,201 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:003B20,100:00FF7F&height=200&section=header&text=MATHEUS%20REIS&fontSize=55&fontColor=00FF7F&animation=twinkling&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER&descSize=16&descColor=FFFFFF&descAlignY=68" width="100%" />
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║  USER: matheusreis                                       ║
-║  CLASS: SOFTWARE ENGINEER                                ║
-║  STATUS: ONLINE                                          ║
-║  MISSION: TURN IDEAS INTO SOFTWARE                       ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF7F?style=for-the-badge&logo=vercel&logoColor=000000)](https://www.matheusreis.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00FF7F)](https://linkedin.com/in/matheusreis777)
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00FF7F)](https://github.com)
-
-</div>
-
----
-
-## `> whoami`
-
-```bash
-matheus@dev:~$ cat about.txt
-```
-
-```text
-Desenvolvedor Full Stack.
-Apaixonado por tecnologia, arquitetura e resolução de problemas.
-
-Construo aplicações web, APIs, integrações e sistemas corporativos.
-Trabalho do banco de dados à interface, passando por infraestrutura,
-deploy e tudo o que faz uma aplicação funcionar em produção.
-
-Não quero apenas escrever código.
-Quero entender o problema e construir a solução certa.
-```
-
-```bash
-matheus@dev:~$ _
-```
-
-## `> tech_stack --list`
-
-<div align="center">
-
-**[ BACKEND ]**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark" />
-
-**[ FRONTEND & MOBILE ]**
-
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,tailwind&theme=dark" />
-
-**[ DATABASE & INFRASTRUCTURE ]**
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,nginx,azure,vercel&theme=dark" />
-
-**[ TOOLS ]**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
-
-</div>
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  SKILL TREE                                              │
-├──────────────────────────────────────────────────────────┤
-│  [██████████] Backend & APIs                              │
-│  [█████████░] Frontend                                    │
-│  [████████░░] Database & Integrations                     │
-│  [████████░░] DevOps & Infrastructure                     │
-│  [███████░░░] Mobile Development                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-## `> ls ./projects`
-
-### `01` — Under Control
-
-```text
-TYPE: SOFTWARE PLATFORM
-STATUS: IN DEVELOPMENT
-```
-
-Plataforma que reúne soluções de software para diferentes segmentos, com foco em gestão, produtividade e automação.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
-
-[![VISIT PROJECT](https://img.shields.io/badge/OPEN_PROJECT-00FF7F?style=flat-square&logo=googlechrome&logoColor=000000)](https://undercontrol.online)
-
----
-
-### `02` — GeoQuest
-
-```text
-TYPE: GAME DEVELOPMENT
-GENRE: GEOGRAPHY / KNOWLEDGE
-```
-
-Um jogo de geografia que transforma conhecimento em uma experiência interativa e competitiva.
-
-`React` `Next.js` `TypeScript`
-
-[![PLAY GAME](https://img.shields.io/badge/PLAY_GAME-00FF7F?style=flat-square&logo=googlechrome&logoColor=000000)](https://geoquestgame.online)
-
----
-
-### `03` — ConnectCar
-
-```text
-TYPE: AUTOMOTIVE CRM
-FOCUS: BUSINESS SYSTEMS & INTEGRATIONS
-```
-
-Sistema de gestão para o setor automotivo, com CRM comercial, estoque de veículos, integrações com portais e APIs de terceiros.
-
-`.NET` `C#` `Angular` `SQL Server` `React Native`
-
----
-
-## `> cat what_i_do.md`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1114&height=8&section=header" width="100%" />
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="middle">
 
-### `[01]` Backend
+# Matheus <span>Reis</span>
 
-APIs REST, regras de negócio, arquitetura de software, autenticação e integrações.
+### Full Stack Developer
 
-**Stack:** .NET · C# · Node.js
+Desenvolvedor de software focado em construir aplicações, APIs, integrações e soluções que resolvem problemas reais.
 
-</td>
-<td width="50%" valign="top">
-
-### `[02]` Frontend
-
-Interfaces modernas, aplicações web, dashboards e experiências responsivas.
-
-**Stack:** Angular · React · Next.js
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-39E6A0?style=flat-square&logo=googlechrome&logoColor=07110C)](https://www.matheusreis.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161F25?style=flat-square&logo=linkedin&logoColor=39E6A0)](https://linkedin.com/in/matheusreis777)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-### `[03]` Mobile
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&text=PLAYER%201&fontSize=12&fontColor=39E6A0" width="100%" />
 
-Aplicações mobile e experiências multiplataforma.
-
-**Stack:** React Native · Expo
-
-</td>
-<td width="50%" valign="top">
-
-### `[04]` Data & Infrastructure
-
-Modelagem de dados, containers, pipelines e publicação de aplicações.
-
-**Stack:** SQL Server · PostgreSQL · Docker
+<img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/avatar.png" width="250" alt="Avatar 3D do Matheus" />
 
 </td>
 </tr>
 </table>
 
-## `> git status`
+</div>
 
-```diff
-+ Explorando novas arquiteturas e padrões de projeto
-+ Desenvolvendo produtos próprios
-+ Aprimorando conhecimentos em engenharia de software
-+ Automatizando processos e conectando sistemas
-! Sempre aprendendo alguma coisa nova
+---
+
+## `// Sobre mim`
+
+Sou desenvolvedor Full Stack e gosto de entender como as coisas funcionam, encontrar soluções melhores e transformar ideias em software.
+
+Trabalho com desenvolvimento backend, frontend, aplicações mobile, bancos de dados, integrações entre sistemas e infraestrutura. Tenho especial interesse em arquitetura de software, APIs e na construção de produtos que sejam simples de usar e sustentáveis de manter.
+
+```typescript
+const matheus = {
+  role: "Full Stack Developer",
+  focus: ["Backend", "APIs", "Architecture", "Integrations"],
+  mindset: "Aprender, construir e melhorar continuamente",
+};
 ```
 
-## `> ./contact.sh`
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  READY TO BUILD SOMETHING?                               │
-│                                                          │
-│  Boas ideias merecem virar código.                       │
-│  Vamos conversar sobre tecnologia, projetos e soluções.  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+## `// Stack`
 
 <div align="center">
 
-[![PORTFOLIO](https://img.shields.io/badge/MATHEUSREIS.DEV-00FF7F?style=for-the-badge&logo=vercel&logoColor=000000)](https://www.matheusreis.dev)
-[![LINKEDIN](https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=00FF7F)](https://linkedin.com/in/matheusreis777)
+**Backend**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:003B20,100:050505&height=100&section=footer" width="100%" />
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,tailwind&theme=dark" />
+
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,nginx,azure,vercel&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+
+</div>
+
+## `// O que eu faço`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend
+
+APIs REST, regras de negócio, autenticação, arquitetura e serviços corporativos.
+
+`.NET` · `C#` · `Node.js` · `Entity Framework`
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend
+
+Interfaces modernas, dashboards, aplicações web e experiências responsivas.
+
+`Angular` · `React` · `Next.js` · `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Mobile
+
+Aplicações multiplataforma com foco em usabilidade e integração com APIs.
+
+`React Native` · `Expo`
+
+</td>
+<td width="50%" valign="top">
+
+### Dados & Infraestrutura
+
+Modelagem de dados, containers, automação de deploy e ambientes de produção.
+
+`SQL Server` · `PostgreSQL` · `Docker` · `Nginx`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Integrações
+
+Comunicação entre sistemas, webhooks, APIs externas e automação de processos.
+
+`REST APIs` · `Webhooks` · `WhatsApp`
+
+</td>
+<td width="50%" valign="top">
+
+### Engenharia de software
+
+Organização de código, manutenção de sistemas existentes e evolução contínua de produtos.
+
+`Clean Architecture` · `SOLID` · `Design Patterns`
+
+</td>
+</tr>
+</table>
+
+## `// Projetos em destaque`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Under Control
+
+Plataforma que reúne soluções de software para diferentes segmentos, com foco em gestão e produtividade.
+
+**Tecnologias**
+
+`Next.js` `TypeScript` `Tailwind` `Supabase`
+
+[ Acessar projeto →](https://undercontrol.online)
+
+</td>
+<td width="50%" valign="top">
+
+### GeoQuest
+
+Jogo de geografia que transforma conhecimento em uma experiência interativa e competitiva.
+
+**Tecnologias**
+
+`React` `Next.js` `TypeScript`
+
+[ Jogar →](https://geoquestgame.online)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ConnectCar
+
+Sistema de gestão e CRM para o setor automotivo, com funcionalidades comerciais, estoque de veículos e integrações com portais e serviços externos.
+
+**Tecnologias**
+
+`.NET` `C#` `Angular` `SQL Server` `React Native`
+
+</td>
+</tr>
+</table>
+
+## `// Atualmente`
+
+- Evoluindo conhecimentos em arquitetura e engenharia de software.
+- Desenvolvendo produtos próprios e explorando novas tecnologias.
+- Melhorando integrações, processos e soluções existentes.
+- Aprendendo continuamente por meio de projetos reais.
+
+---
+
+<div align="center">
+
+### `PRESS START`
+
+Vamos conversar sobre tecnologia, desenvolvimento e novas ideias.
+
+[![Portfolio](https://img.shields.io/badge/matheusreis.dev-39E6A0?style=flat-square&logo=googlechrome&logoColor=07110C)](https://www.matheusreis.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161F25?style=flat-square&logo=linkedin&logoColor=39E6A0)](https://linkedin.com/in/matheusreis777)
+
+<sub>BUILD · LEARN · IMPROVE · REPEAT</sub>
 
 </div>
